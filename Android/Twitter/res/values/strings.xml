@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_state_initial">Twitter Login Connecting</string>
+
+    <string name="tw_consumer_key">tw_consumer_key</string>
+    <string name="tw_consumer_secret">tw_consumer_secret</string>
+    <string name="mb_application_key">mb_application_key</string>
+    <string name="mb_client_key">mb_client_key</string>
+
+</resources>
